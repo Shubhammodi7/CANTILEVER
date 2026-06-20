@@ -22,4 +22,3 @@ CANTILEVER/
 │       └── client/              # React + Vite Client Engine (Deployed on Vercel)
 │
 └── task-management/             # App Suite 02: Operational Tracking Telemetry (Upcoming module)
-end Routing Framework (Vercel)Framework Preset Configuration: ViteLinked Subdirectory target: blog-website/front-end/clientStatic Environment Target Injections: VITE_API_BASE_URL linked securely to the live production Render API link route.
