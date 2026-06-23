@@ -21,7 +21,7 @@ const Notifications = () => {
     { method: "GET", credentials: "include" },
   );
 
-  if (notifLoading || blogsLoading) return <Loading />;
+  if ((isLoggedIn && notifLoading) || blogsLoading) return <Loading />;
 
   const notifications = notifData?.notifications || [];
   const recentBlogs = Array.isArray(blogData)
