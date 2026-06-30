@@ -8,7 +8,7 @@
 
 A modern, full-stack publishing platform engineered for developers to share technical architecture paradigms, system patterns, and clean code principles. Built with a decoupled React frontend, a robust Node.js backend, and Firebase integration.
 
-**🌍 Live Demo:** [https://cantilever-s-blog.vercel.app/](https://cantilever-s-blog.vercel.app/)
+**🌍 Live Demo:** (https://cantilever-s-blog.vercel.app/)
 
 ---
 
